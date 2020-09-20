@@ -1,0 +1,8 @@
+.two-columns__main-text {
+    flex-wrap: wrap;
+    align-items: center;
+    line-height: 34px;
+    font-size: 24px;
+    width: 80%;
+    
+}
